@@ -23,4 +23,4 @@ Cara menggunakan Webpack
  
     npm run start-dev
 
- ![alt text](https://raw.githubusercontent.com/yat98/wOVID-19/master/ss.png)
+ ![alt text]()
